@@ -1,0 +1,11 @@
+[core]
+	editor = \"C:\\Users\\Lenovo\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+[user]
+	email = kapil.kumar@myysports.com
+	name = Kapil Kumar
+	name = Kapil
+	name = Kapil
+[remote "origin"]
+    fetch = +refs/heads/*:refs/remotes/origin/*
+[use]
+	Name = KapilKumar361
